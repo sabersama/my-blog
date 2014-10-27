@@ -39,7 +39,6 @@
       $ git fetch origin
       $ git checkout gh-pages
       </code></pre>
-      </section>
       {% for post in site.posts %}
       <h3>
         <a name="designer-templates" class="anchor" href="{{ site.baseurl }}{{ post.url }}">
@@ -48,6 +47,7 @@
       </h3>
       <p>{{ post.date | date_to_string }}</p>
 　　　{% endfor %}
+      </section>
       <footer>
         <p>This project is maintained by <a href="https://github.com/sabersama">sabersama</a></p>
         <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
