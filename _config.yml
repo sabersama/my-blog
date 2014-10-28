@@ -1,4 +1,4 @@
-baseurl: /my-blog
+atom-baseurl: /my-blog
 encoding: UTF-8
 
 markdown: rdiscount
