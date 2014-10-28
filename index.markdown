@@ -16,7 +16,7 @@ layout: default
     {% if post.tags %}
     <span class="tags">
       {% for tag in post.tags %}
-      <a href="/tags.html#{{ tag }}" title="{{ tag }}">#{{ tag }}</a>
+      <a href="/my-blog/tags.html#{{ tag }}" title="{{ tag }}">#{{ tag }}</a>
       {% endfor %}
     </span>
     {% endif %}
@@ -56,6 +56,6 @@ layout: default
       <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
     </li>
   {% endfor %}
-    <li class="listing-seperator"><a href="/archive.html">Long long ago</a></li>
+    <li class="listing-seperator"><a href="/my-blog/archive.html">Long long ago</a></li>
   </ul>
 </div>
