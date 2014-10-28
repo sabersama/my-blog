@@ -1,4 +1,4 @@
-baseurl: http://sabersama.github.io/my-blog/
+baseurl: /my-blog
 encoding: UTF-8
 
 markdown: rdiscount
