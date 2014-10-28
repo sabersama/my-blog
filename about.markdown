@@ -3,9 +3,9 @@ title: about
 layout: page
 ---
 
-a
+I'm 
 
-> Minimalist | Appleist | Unixer | Coder
+> pythoner | 90后 | 宅 
 
 who involved in 
 
@@ -17,6 +17,6 @@ mail
 
 or follow 
 
-> [@o_lll](http://weibo.com/u/2216189490)
+> [@古城到青年](http://weibo.com/u/2216189490)
 
 to reach me
