@@ -1,4 +1,4 @@
-atom-baseurl: /my-blog
+baseurl: http://sabersama.github.io/my-blog/
 encoding: UTF-8
 
 markdown: rdiscount
