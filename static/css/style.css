@@ -205,3 +205,9 @@ footer {
     color: #dd1144; }
   .like-wrapper .like-button.liked:hover {
     color: #999; }
+
+@media (max-width: 767px) {
+  header {
+    width: 535px !important;
+  }
+}
