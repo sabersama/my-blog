@@ -21,9 +21,6 @@ body {
   color: #555;
   background-color: #f9f9f9; }
 body {
-  font:14px 'Poly', georgia, serif;
-  line-height:1.5;
-  font-weight: lighter;
   margin: 0 auto;
   width: 100%;
   zoom:0.8;
@@ -217,7 +214,7 @@ footer {
     color: #999; }
 
 @media (max-width: 767px) {
-  header {
+  header, footer, p {
     width: 535px !important;
   }
 }
