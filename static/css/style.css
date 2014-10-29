@@ -218,3 +218,15 @@ footer {
     width: 535px !important;
   }
 }
+
+@media (min-width: 480px) {
+  body { zoom: 0.8; }
+}
+@media (min-width: 680px) {
+  body { zoom: 0.9; width: 680px; }
+  header { margin:0; }
+  footer { margin:5% 0; }
+}
+@media (min-width: 780px) {
+  body { zoom: 1.3; }
+}
